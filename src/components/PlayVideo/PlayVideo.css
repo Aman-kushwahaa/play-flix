@@ -164,6 +164,29 @@
 
 }
 
+@media(max-width:900px){
+    .play-video{
+        flex-basis: 100%;
+
+    }
+    .pay-video iframe{
+        width:100%;
+        height: 50vw;
+
+    }
+    .vid-description{
+        padding-left :0;
+
+
+    }
+    .play-video .play-video-info span{
+        margin-left: 0;
+        margin-right: 15px;
+        margin-top:15px
+
+    }
+}
+
 
 
 
